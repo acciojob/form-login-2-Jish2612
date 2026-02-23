@@ -1,4 +1,4 @@
-# Form Login 2
+# Form Login
 Your task is to design a form(like in the image below).
 ![image](https://user-images.githubusercontent.com/78275204/224528657-8e145a9e-303e-40e4-bb66-c97b49dde1c2.png)
 
